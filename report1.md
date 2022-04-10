@@ -33,7 +33,8 @@ Step 4: Moving Files with scp
 This step allows me to use the *scp* command to securely copy files from my computer to a remote computer. To try out this command, I took the following steps: 
 - I created a file called WhereAmI.java
 - Put the following in the file
- class WhereAmI {
+
+class WhereAmI {
   public static void main(String[] args) {
     System.out.println(System.getProperty("os.name"));
     System.out.println(System.getProperty("user.name"));
