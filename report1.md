@@ -11,10 +11,8 @@ This step allows me to connect my machine to a remote computer and do work, such
 - I found out my course specific account for CSE15L [here](https://sdacs.ucsd.edu/~icc/index.php).
 - I opened a terminal in VS Code. Typed in the following command: $ ssh cs15lsp22zz@ieng6.ucsd.edu. I replaced "zz" with my personal course specific account. It is my first time connecting to the server, so I saw the following "The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established." "Are you sure you want to continue connecting (yes/no/[fingerprint])?" This message is expected, so I typed Yes. 
 - I typed Yes and entered my password. I saw the the following image
-![ssh](15L step2: remotely connecting .png)
-
-
-- Now my computer is connected to a computer in the CSE basement! My computer is the *client* and the computer in the basement is the *server*. 
+Now my computer is connected to a computer in the CSE basement! My computer is the *client* and the computer in the basement is the *server*. 
+![ssh](Lab1Step2.png)
 
 Step 3: Trying Some Commands
 
@@ -28,7 +26,7 @@ I tried various commands such as cd ~, cd, ls, ls -lat, ls -a, pwd, mkdir, and c
 - pwd: prints the path to the current working directory
 - mkdir: makes a directory
 - cp: copy, can copy files.
-![commands](15L step3: run commands.png)
+![commands](15LStep3.png)
 
 Step 4: Moving Files with scp
 
@@ -48,7 +46,7 @@ This step allows me to use the *scp* command to securely copy files from my comp
 - Entered the password for my account
 - Used *ls* command
 Now the file is copied and can be ran on the remote computer 
-![scp](15L step 4.png)
+![scp](15LStep4.png)
 
 Step 5: Setting an SSH Key
 
@@ -61,14 +59,14 @@ This step allows me to use a program called ssh-keygen to avoid re-entering my p
 - $ mkdir .ssh
 - $ scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys
 Now I can use ssh and scp commands without re-entering my password everytime!
-  
+![sshkey](15LStep5.png)
   
 Step 6: Optimizing Remote Running
 
 This step allows me to try to find a way to optimize how to make local edits on my computer and copy it to remote server and run it.
 - I wrote a command in quotes after ssh command to directly run on the server
 - I used semicolons to run multiple commands on a same line
-![optimize]()
+![optimize](15LStep6.png)
  
 
 
