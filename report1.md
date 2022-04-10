@@ -68,5 +68,6 @@ This step allows me to try to find a way to optimize how to make local edits on 
 - I used semicolons to run multiple commands on a same line
 ![optimize](15LStep6.png)
  
+ 
 
 
