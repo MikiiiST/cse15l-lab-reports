@@ -59,6 +59,7 @@ This step allows me to use a program called ssh-keygen to avoid re-entering my p
 - $ mkdir .ssh
 - $ scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys
 Now I can use ssh and scp commands without re-entering my password everytime!
+
 ![sshkey](15LStep5.png)
   
 Step 6: Optimizing Remote Running
