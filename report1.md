@@ -34,15 +34,17 @@ This step allows me to use the `scp` command to securely copy files from my comp
 - I created a file called WhereAmI.java
 - Put the following in the file
 
-`class WhereAmI  
-                {
-  public static void main(String[] args) {
+```
+class WhereAmI                                                                                                                                           
+               { 
+public static void main(String[] args) {
     System.out.println(System.getProperty("os.name"));
     System.out.println(System.getProperty("user.name"));
     System.out.println(System.getProperty("user.home"));
     System.out.println(System.getProperty("user.dir"));
   }
-}`
+}
+```
 - Ran javac and java in the terminal
 - Ran this command: `scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/` but replaced "zz" with my personal account
 - Entered the password for my account
