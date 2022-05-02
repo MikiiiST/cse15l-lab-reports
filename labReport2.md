@@ -30,6 +30,7 @@ Link to my corrected code is [here](https://github.com/MikiiiST/markdown-parser/
 Please click [here](https://github.com/MikiiiST/cse15l-lab-reports/blob/main/lab3Test2.md)
 
 failure-induing input is shown below:
+
 ![](FailedTest2.png)
 
 #### 3. Show the symptom of that failure-inducing input by showing the output of running the file at the command line
@@ -51,6 +52,7 @@ Link to my corrected code is [here](https://github.com/MikiiiST/markdown-parser/
 Please click [here](https://github.com/MikiiiST/cse15l-lab-reports/blob/main/lab3Test3.md)
 
 failure-induing input is shown below:
+
 ![](FailedTest3.png)
 
 The failed input was 
