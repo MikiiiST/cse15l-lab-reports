@@ -5,10 +5,11 @@
 Link to my corrected code is [here](https://github.com/MikiiiST/markdown-parser/commit/96b80beec73b7f1d33f4f53671412aec33772a9b)
 
 #### 2. Link to the test file for a failure-inducing input
-https://github.com/MikiiiST/markdown-parser/commit/f2a96f15904f6a30fbe4f847de1de8a66c3084bd
+Please click [here](https://github.com/MikiiiST/cse15l-lab-reports/blob/main/lab3Test.md)
 
 failure-induing input is shown below:
-![](failedTest1input.png)
+
+![](FailedTest1.png)
 
 #### 3. Show the symptom of that failure-inducing input by showing the output of running the file at the command line 
 ![image](lab3FailedTest1Output.png)
@@ -26,10 +27,10 @@ New output:
 Link to my corrected code is [here](https://github.com/MikiiiST/markdown-parser/commit/96b80beec73b7f1d33f4f53671412aec33772a9b)
 
 #### 2. Link to the test file for a failure-inducing input
-https://github.com/MikiiiST/markdown-parser/commit/f2a96f15904f6a30fbe4f847de1de8a66c3084bd
+Please click [here](https://github.com/MikiiiST/cse15l-lab-reports/blob/main/lab3Test2.md)
 
 failure-induing input is shown below:
-![](failedTest1input.png)
+![](FailedTest2.png)
 
 #### 3. Show the symptom of that failure-inducing input by showing the output of running the file at the command line
 ![](lab3FailedTestOutput2.png)
@@ -47,13 +48,13 @@ New output:
 Link to my corrected code is [here](https://github.com/MikiiiST/markdown-parser/commit/96b80beec73b7f1d33f4f53671412aec33772a9b)
 
 #### 2. Link to the test file for a failure-inducing input
-https://github.com/MikiiiST/markdown-parser/commit/467e8fd519c2cb89e535274c1530cce4936ff368?diff=split
+Please click [here](https://github.com/MikiiiST/cse15l-lab-reports/blob/main/lab3Test3.md)
 
 failure-induing input is shown below:
-![](Lab3FailedTest3Input.png)
+![](FailedTest3.png)
 
 The failed input was 
-`[google]()`
+`[canvas]()`
 
 #### 3. Show the symptom of that failure-inducing input by showing the output of running the file at the command line
 ![](lab3FailedTest3Output.png)
