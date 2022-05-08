@@ -1,39 +1,39 @@
 # Streamlining ssh Configuration
-### Showing my `.ssh/config` file
+### 1. Showing my `.ssh/config` file
 ![](sshConfig.png)
 
-### Showing the `ssh` command that logged me into my account
+### 2. Showing the `ssh` command that logged me into my account
 ![](sshLoggedIn.png)
 ![](sshLoggedIn2.png)
 
-### Showing the `scp` command
+### 3. Showing the `scp` command
 ![](sshScp.png)
 
 # Setup Github Access from ieng6
-### Showing where the public key is stored
+### 1. Showing where the public key is stored
 ![](sshKeyGitHub.png)
 ![](sshKeyT.png)
 
-### Showing where the private key is stored
+### 2. Showing where the private key is stored
 ![](sshKeyT.png)
  
-### running git commands to commit and push
+### 3. Running git commands to commit and push
  `git commit`:
  ![](sshCommit.png)
  `git push`:
  ![](sshPush.png)
  
-### a link for the resulting commit
+### 4. A link for the resulting commit
 Please click [here](https://github.com/MikiiiST/markdown-parser/commit/fc2ac00a23baf867e3cdb0c9cf6324e942bcd6b4)
 
 # Copy whole directories with scp -r
-### Show copying the whole markdown-parse directory to ieng6 account
+### 1. Show copying the whole markdown-parse directory to ieng6 account
 ![](scp-r.png)
 ![](scp-r2.png)
 
-### Show logging into ieng6 account and compiling and running the tests
+### 2. Show logging into ieng6 account and compiling and running the tests
 ![](scp-r-test.png)
 
-### Show combining multiple commands to copy the whole directory and run the tests in one line
+### 3. Show combining multiple commands to copy the whole directory and run the tests in one line
 ![](scp1line.png)
 
