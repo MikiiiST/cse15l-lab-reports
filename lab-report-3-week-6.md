@@ -15,7 +15,7 @@ Option 3 is copy whole directories with `scp -r`. In option 3, I will use `scp -
 ![](sshLoggedIn2.png)
 
 ### 3. Showing the `scp` command
-![](sshScp.png)
+![](scpRe.png)
 
 # Setup Github Access from ieng6
 ### 1. Showing where the public key is stored
