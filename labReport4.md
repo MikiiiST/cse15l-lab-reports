@@ -1,4 +1,4 @@
-Link to my markdown-parse repository is [here](https://github.com/MikiiiST/markdown-parser)
+Link to my markdown-parse repository is [here](https://github.com/MikiiiST/markdown-parser) <br>
 Link to the markdown-parse repository I reviewed is [here](https://github.com/ayushs2725/markdown-parser)
 
 # Snippet 1
@@ -8,64 +8,64 @@ Link to the markdown-parse repository I reviewed is [here](https://github.com/ay
 ![preview1](snippet1Preview.png)
 
 2) Showing the code in MarkdownParseTest.java for how I turned it into a test
-![test](snippet1How)
+![test](snippet1How.png)
 
 3) The test I ran for snippet 1 passed, which is shown by the following message.
-![test](snippet1TestJava)
+![test](snippet1TestJava.png)
 
 ### Test using the reviewed implementation:
 1) Using VSCode preview, the test should produce
-![preview1A](snippet1PreviewA)
+![preview1A](snippet1PreviewA.png)
 
 2) Showing the code in MarkdownParseTest.java for how I turned it into a test
-![test](snippet1How)
+![test](snippet1How.png)
 
 3) The test I ran for snippet 1 passed, which is shown by the following message.
-![test](snippet1TestA)
+![test](snippet1TestA.png)
 
 # Snippet 2
 ### Test using my implementation:
 
 1) Using VSCode preview, the test should produce
-![preview2](snippet2PreviewMe)
+![preview2](snippet2PreviewMe.png)
 
 2) Showing the code in MarkdownParseTest.java for how I turned it into a test
-![test](snippet2How)
+![test](snippet2How.png)
 
 3) The test I ran for snippet 2 failed. See below for the corresponding output and the specific part of the JUnit output that shows the test failure.
-![test](snippet2TestMe)
+![test](snippet2TestMe.png)
 
 ### Test using the reviewed implementation:
 1) Using VSCode preview, the test should produce
-![preview2A](snippet2PreviewA)
+![preview2A](snippet2PreviewA.png)
 
 2) Showing the code in MarkdownParseTest.java for how I turned it into a test
-![test](snippet2How)
+![test](snippet2How.png)
 
 3) The test I ran for snippet 2 failed for the reviewed implementation. See below for the corresponding output and the specific part of the JUnit output that shows the test failure.
-![test](snippet2TestA)
+![test](snippet2TestA.png)
 
 # Snippet 3
 ### Test using my implementation:
 
 1) Using VSCode preview, the test should produce
-![preview2](snippet3PreviewMe)
+![preview2](snippet3PreviewMe.png)
 
 2) Showing the code in MarkdownParseTest.java for how I turned it into a test
-![test](snippet3How)
+![test](snippet3How.png)
 
 3) The test I ran for snippet 3 failed. See below for the corresponding output and the specific part of the JUnit output that shows the test failure.
-![test](snippet3TestMe)
+![test](snippet3TestMe.png)
 
 ### Test using the reviewed implementation:
 1) Using VSCode preview, the test should produce
-![preview2A](snippet3PreviewA)
+![preview2A](snippet3PreviewA.png)
 
 2) Showing the code in MarkdownParseTest.java for how I turned it into a test
-![test](snippet3How)
+![test](snippet3How.png)
 
 3) The test I ran for snippet 3 failed for the reviewed implementation. See below for the corresponding output and the specific part of the JUnit output that shows the test failure.
-![test](snippet3TestA)
+![test](snippet3TestA.png)
 
 # Answer the following questions
 ### Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
