@@ -5,3 +5,5 @@ lab report 2: https://mikiiist.github.io/cse15l-lab-reports/labReport2
 lab report 3: https://mikiiist.github.io/cse15l-lab-reports/lab-report-3-week-6
 
 lab report 4: https://mikiiist.github.io/cse15l-lab-reports/labReport4
+
+lab report 5: https://mikiiist.github.io/cse15l-lab-reports/labReport5
