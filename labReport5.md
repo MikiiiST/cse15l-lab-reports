@@ -6,9 +6,9 @@
 I found the different tests using vimdiff on the results of running a bash for loop then check for different tests manually.
 
 ### Provide a link to the test-file with different-results
-[Please click here for the first test](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/371.html.test)
-[Please click here for the second test](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/488.html.test)
-[Here to view the whole test-file](https://github.com/nidhidhamnani/markdown-parser/tree/main/test-files)
+[Click here for the first test](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/371.html.test) <br>
+[Click here for the second test](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/488.html.test) <br>
+[Click here to view the whole test-file](https://github.com/nidhidhamnani/markdown-parser/tree/main/test-files) <br>
 
 ### Test 1
 The provided implementation is correct because this test case should not produce a link.
