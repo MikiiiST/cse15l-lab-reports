@@ -13,7 +13,7 @@ I found the different tests using vimdiff on the results of running a bash for l
 ### Test 1
 The provided implementation is correct because this test case should not produce a link.
 Both actual outputs is shown below:
-![](labreport5Test1)
+![](labreport5Test1.png)
 
 Expected outputs are:
 
@@ -22,7 +22,7 @@ The bug in my implementation is that the position of open and closing parenthese
 ### Test 1
 The provided implementation is correct because this test case should not produce a link.
 Both actual outputs is shown below:
-![](labreport5Test2)
+![](labreport5Test2.png)
 
 Expected outputs are:
 
