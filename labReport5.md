@@ -1,5 +1,7 @@
 ### Two tests with different answers when using my implementation and the provided implementation.
+Test 1:
 ![](labreport5Test1.png)
+Test 2:
 ![](labreport5Test2.png)
 
 ### How you found the tests with different results
@@ -15,7 +17,8 @@ The provided implementation is correct because this test case should not produce
 Both actual outputs is shown below:
 ![](labreport5Test1.png)
 
-Expected outputs are:
+Expected output is:
+![](lab5expected1.png)
 
 The bug in my implementation is that the position of open and closing parentheses are not correctly found. My implementation only checks for the first and last open and closing parentheses, so it is not correct. 
 
@@ -24,7 +27,8 @@ The provided implementation is correct because this test case should not produce
 Both actual outputs is shown below:
 ![](labreport5Test2.png)
 
-Expected outputs are:
+Expected output is:
+![](lab5expected2.png)
 
 The bug in my implementation is that the position of open and closing parentheses are not correctly found. My implementation only checks for the first and last open and closing parentheses, so it is not correct. 
 
