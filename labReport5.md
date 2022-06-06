@@ -1,6 +1,6 @@
 ### Two tests with different answers when using my implementation and the provided implementation.
-![](labreport5Test1)
-![](labreport5Test2)
+![](labreport5Test1.png)
+![](labreport5Test2.png)
 
 ### How you found the tests with different results
 I found the different tests using vimdiff on the results of running a bash for loop then check for different tests manually.
