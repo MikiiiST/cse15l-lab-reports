@@ -23,7 +23,7 @@ Neither implementation is correct. Using VScode preview, the expected output is 
 <br>
 The bug in my implementation is that the position of open parentheses is not correctly found. My implementation checks for the first and last open and closing parentheses based on open and closing brackets. Since the test doesn't contain open and closing brackets, the position of open parentheses is wrong, leading to wrong output.
 
-Code snippet that needs to be changed is shown below:
+Code snippet that needs to be changed is shown below: <br>
 My implementation:
 ![](myCodeSnippet1.png)
 
@@ -41,7 +41,7 @@ Neither implementation is correct. Using VScode preview, the expected output is 
 <br>
 The bug in my implementation is that the position of open abd closing parentheses are not correctly found. My implementation checks for the first and last open and closing parentheses based on open and closing brackets. Since the test doesn't contain open and closing brackets, the position of open and closing parentheses are wrong, leading to wrong output.
 
-Code snippet that needs to be changed is shown below:
+Code snippet that needs to be changed is shown below: <br>
 My implementation:
 ![](myCodeSnippet1.png)
 
